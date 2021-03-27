@@ -10,7 +10,7 @@ Before the config file is generated, you must run the game with the mod installe
 #### There are serveral config options available;
 
 | Config Option | Type | Default Value | Description |
-|:-------------:|:-----------:|:-----------:|:-----------|
+|:-------------:|:-----------:|:-----------:|:----------|
 | Enable Mod | bool | true | Enable or disable the mod |
 | Disable Proximity Check | bool | true | Disables the "Bees need more space" check |
 | Show Alternate Text | bool | true | Show the amount of honey generated next to the Beehive name "Honey ( 0/4 )" instead of "( EMPTY )" or "( Honey x honeyAmount )" |
